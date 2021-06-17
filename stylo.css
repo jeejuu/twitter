@@ -1,0 +1,35 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.box{
+	position: absolute;
+	left: 40%;
+	font-size: 40px;
+	width: 300px;
+}
+input{
+	width: 230px;
+	height: 40px;
+	margin-bottom: 25px;
+}
+.btn{
+	background-color: lightblue;
+	border-radius: 30px;
+	border:none;
+	color: white;
+	font-size: 18px;
+}
+a{
+	font-size: 13.5px;
+	top: 20px;
+	color: lightblue;
+
+}
+p{
+	margin-top: 20px;
+	font-size: 10px;
+}
+.tweet{
+   color: lightblue;
+}
